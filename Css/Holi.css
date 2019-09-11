@@ -1,0 +1,59 @@
+
+#viewMap
+{
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+}
+
+#miCanvas
+{
+  position: absolute;
+  bottom: 110px;
+  left: 110px;
+  border: solid;
+  
+}
+
+.sassy-theme .esri-widget,
+.esri-widget--button,
+.sassy-theme .esri-widget--button,
+.sassy-theme .esri-menu,
+.sassy-theme .esri-popup__main-container,
+.sassy-theme .esri-popup .esri-popup__pointer-direction,
+.sassy-theme .esri-popup .esri-popup__button,
+.sassy-theme .esri-button,
+.sassy-theme .esri-input,
+.sassy-theme .esri-popup__header-title,
+.sassy-theme .esri-widget a {
+background-color:white;
+margin-left: auto;
+}
+
+/*Style del mapa y popa*/
+
+.sassy-theme .esri-feature_media-item imgenes {
+  width: 180%;
+  height: 200%;
+  text-align: left;
+}
+
+
+.sassy-theme .esri-popup__header-title {
+
+   font-size: 21px;
+   text-align: center;
+}
+
+.sassy-theme .esri-feature__field-header{
+  font-weight: bold;
+  font-size: 14px;
+  
+}
+
+
+
